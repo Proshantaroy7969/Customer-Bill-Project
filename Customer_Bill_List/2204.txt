@@ -1,0 +1,21 @@
+		   Welcome to Roys Shop
+
+  Bill Number :2204
+  Customer Name :Mehedi Hasan
+  Phone Number :018806
+=======================================================
+ Products				QTY		Price
+=======================================================
+ Bath Soap				5		200
+ Hair Gell				1		140
+ Body Loshan				1		180
+ Rice 				10		400
+ Tea				1		180
+ Cocacola				1		40
+ Seven Up				5		900
+-------------------------------------------------------
+ Cosmetic Tax					Tk 26.0
+ Grocery Tax					Tk 29.0
+ Colod Drink Tax					Tk 47.0
+ Total Bill :					Tk 2142.0
+-------------------------------------------------------
